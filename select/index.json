@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Shopper",
+  "base_artist": "아이유",
+  "createdAt": "2025-12-14T15:48:05.924526Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nan You're a Window Shopper",
+      "artist": "Lily Allen",
+      "has_synced": true,
+      "path": "select/01_Nan_You're_a_Window_Shopper_Lily_Allen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Window Shopper",
+      "artist": "Nickelback",
+      "has_synced": true,
+      "path": "select/02_Window_Shopper_Nickelback.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "PERSONAL SHOPPER",
+      "artist": "Steven Wilson",
+      "has_synced": true,
+      "path": "select/03_PERSONAL_SHOPPER_Steven_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Window Shopper (explicit)",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/04_Window_Shopper_(explicit)_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Window Shopper",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/05_Window_Shopper_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nickelback - Window Shopper [Audio]",
+      "artist": "Nickelback",
+      "has_synced": true,
+      "path": "select/06_Nickelback_-_Window_Shopper_[Audio]_Nickelback.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Window Shopper",
+      "artist": "John Entwistle",
+      "has_synced": false,
+      "path": "select/07_The_Window_Shopper_John_Entwistle.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Happy Shopper",
+      "artist": "60ft Dolls",
+      "has_synced": false,
+      "path": "select/08_Happy_Shopper_60ft_Dolls.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Window Shopper",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/09_Window_Shopper_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Window Shopper - Album Version (Edited)",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/10_Window_Shopper_-_Album_Version_(Edited)_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Window Shopper (Edited)",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/11_Window_Shopper_(Edited)_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "WINDOW SHOPPER PART. 1",
+      "artist": "Laylow",
+      "has_synced": false,
+      "path": "select/12_WINDOW_SHOPPER_PART._1_Laylow.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "WINDOW SHOPPER PART. 2 (feat. Hamza)",
+      "artist": "Laylow feat. Hamza",
+      "has_synced": true,
+      "path": "select/13_WINDOW_SHOPPER_PART._2_(feat._Hamza)_Laylow_feat._Hamza.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "WINDOW SHOPPER PART. 2 (feat. Hamza)",
+      "artist": "Laylow",
+      "has_synced": true,
+      "path": "select/14_WINDOW_SHOPPER_PART._2_(feat._Hamza)_Laylow.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shopper",
+      "artist": "IU",
+      "has_synced": false,
+      "path": "select/pl_01_Shopper_IU.txt"
+    }
+  ]
+}
